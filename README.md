@@ -22,7 +22,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asriaziziyah&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asriaziziyah&layout=compact&hide=html" alt="abuanwar072" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asriaziziyah&show_icons=true" alt="abuanwar072" /></p>
 
 </details>
 
