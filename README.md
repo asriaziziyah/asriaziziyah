@@ -8,17 +8,6 @@
 - ⚡ S-1 Electrical Engineering Student, Sebelas Maret University
 - 👯 Open for collaboration: asriaziziyah123@gmail.com
 
-### Connect with me:
-
-
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/asri-aziziyah-982338152/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/asri-aziziyah-982338152/)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/asriaziziyah/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/asriaziziyah/)
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
