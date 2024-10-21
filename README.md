@@ -10,11 +10,20 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asriaziziyah&layout=compact&hide=html" alt="asriaziziyah" /></p>
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=asriaziziyah&show_icons=true" alt="asriaziziyah" /></p>
-
+  <table>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/asriaziziyah">
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=asriaziziyah&show_icons=true" alt="asriaziziyah" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/asriaziziyah">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asriaziziyah&layout=compact&hide=html" alt="asriaziziyah" />
+      </a>
+    </td>
+  </tr>
+</table>
 </details>
 
 [linkedin]: https://www.linkedin.com/in/asri-aziziyah-982338152/
