@@ -11,9 +11,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asriaziziyah&layout=compact&hide=html" alt="abuanwar072" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asriaziziyah&layout=compact&hide=html" alt="asriaziziyah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asriaziziyah&show_icons=true" alt="abuanwar072" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=asriaziziyah&show_icons=true" alt="asriaziziyah" /></p>
 
 </details>
 
